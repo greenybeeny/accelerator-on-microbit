@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="lk}^kbJ)w{}Eh!^?k(aN" x="0" y="0"/><block type="device_forever" id="a*lKR@4:-Pu},l-d1vvg" x="205" y="0"/><block type="device_gesture_event" id="TEnS,3y.MCt0J/y5XumZ" x="195" y="184"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="N-R]$WB=K:CTGl%TCk{|"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . #
+        `</field></block></statement></block></xml>
